@@ -33,12 +33,15 @@ body {
 
 nav {
   font-family: Roboto, sans-serif;
-  color: black;
   text-transform: uppercase;
   text-align:right;
   width: 98%;
   margin-top: 39rem;
   font-size: 20px;
+}
+
+a {
+  color: black;
 }
 
 a:hover {
